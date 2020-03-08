@@ -43,8 +43,23 @@ async function runAdventure() {
     getChoice();
     runAdventure()
     }}}
-    
-    
+
+  
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* --------------------------------------- */
 /* -------DON'T TOUCH ANTHING BELOW------- */
 /* --------------------------------------- */
